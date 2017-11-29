@@ -40,7 +40,7 @@ public int max_substring(char[] str){
         }  
         return maxlen;  
     }  
-    ```
+```
 
 见[java-leetcode/note/003](https://github.com/simifun/java-leetcode/tree/master/leetcode/note/003)
 
